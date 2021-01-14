@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Ido </h1>
 
-<h3 align="center">Applied Mathematics graduate, with a drive for software development </h3>
+<h3 align="center">Applied Mathematics graduate, with a drive for Software Development </h3>
 
 - 🔭 I’m currently working on It's About Time (can't share more than the title right now :grimacing:)
 
