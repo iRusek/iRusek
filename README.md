@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Ido </h1>
+<h1 align="center"> Hi 👋, I'm Ido Rusek</h1>
 
 <h3 align="center">Applied Mathematics graduate, with a drive for Software Development </h3>
 
